@@ -1,0 +1,19 @@
+
+
+Chapter 15 Lambda Expressions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 391
+	Introducing Lambda Expressions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 391
+	Lambda Expression Fundamentals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+	Functional Interfaces . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 393
+	Some Lambda Expression Examples  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 394
+	Block Lambda Expressions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  397
+	Generic Functional Interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    399
+	Passing Lambda Expressions as Arguments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  401
+	Lambda Expressions and Exceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  404
+	Lambda Expressions and Variable Capture  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . .  405
+	Method References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . .  406
+	Method References to static Methods  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . .  406
+	Method References to Instance Methods  . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .  407
+	Method References with Generics  . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .  411
+	Constructor References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  414
+	Predefined Functional Interfaces  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   . .  418
+

@@ -12,8 +12,8 @@ Chapter 15 Lambda Expressions  . . . . . . . . . . . . . . . . . . . . . . . . .
 	Lambda Expressions and Variable Capture  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . .  405
 	Method References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . .  406
 	Method References to static Methods  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . .  406
-	
 	Method References to Instance Methods  . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .  407
+	
 	Method References with Generics  . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .  411
 	Constructor References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  414
 	Predefined Functional Interfaces  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   . .  418

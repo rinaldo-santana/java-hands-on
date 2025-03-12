@@ -13,8 +13,33 @@ Chapter 15 Lambda Expressions  . . . . . . . . . . . . . . . . . . . . . . . . .
 	Method References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . .  406
 	Method References to static Methods  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . .  406
 	Method References to Instance Methods  . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .  407
-	
 	Method References with Generics  . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . .  411
 	Constructor References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  414
 	Predefined Functional Interfaces  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   . .  418
-
+	
+	
+Chapter 16 Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+Module Basics  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+A Simple Module Example . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  422
+Compile and Run the First Module Example  . . . . . . . . . . . . . . . . . . . . .  426
+A Closer Look at requires and exports  . . . . . . . . . . . . . . . . . . . . . . . . . .  428
+Contents xv
+java.base and the Platform Modules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  429
+Legacy Code and the Unnamed Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  429
+Exporting to a Specific Module  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  430
+Using requires transitive  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  432
+Use Services  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  436
+Service and Service Provider Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . .  436
+The Service-Based Keywords  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  437
+A Module-Based Service Example  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  437
+Module Graphs  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  444
+Three Specialized Module Features  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  445
+Open Modules  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  445
+The opens Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  445
+requires static  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  446
+Introducing jlink and Module JAR Files  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  446
+Linking Files in an Exploded Directory  . . . . . . . . . . . . . . . . . . . . . . . . .  446
+Linking Modular JAR Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  447
+JMOD Files  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  447
+A Brief Word About Layers and Automatic Modules  . . . . . . . . . . . . . . . . . .  448
+Final Thoughts on Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  448
